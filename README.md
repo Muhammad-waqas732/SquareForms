@@ -1,1 +1,1 @@
-# sqspforms
+# SquareForms
